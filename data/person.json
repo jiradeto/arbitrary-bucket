@@ -15,6 +15,11 @@
         "name":"Alex Clemen",
         "age": 56,
         "weight": 80
+      },
+      {
+        "name":"Christopher Jo",
+        "age": 21,
+        "weight": 25
       }
     ]
   }
