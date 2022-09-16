@@ -1,0 +1,21 @@
+{
+  "data": {
+    "persons": [
+      {
+        "name":"John Doe",
+        "age": 33,
+        "weight": 78
+      },
+      {
+        "name":"Sarah",
+        "age": 27,
+        "weight": 56
+      },
+      {
+        "name":"Alex Clemen",
+        "age": 56,
+        "weight": 80
+      }
+    ]
+  }
+}
