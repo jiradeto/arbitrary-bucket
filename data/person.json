@@ -20,6 +20,11 @@
         "name":"Christopher Jo",
         "age": 21,
         "weight": 25
+      },
+      {
+        "name":"Jonathan Well",
+        "age": 28,
+        "weight": 92
       }
     ]
   }
